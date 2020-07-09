@@ -12,7 +12,7 @@
   + Design/Improve middleware infrastructure/tooling to improve DevExp
   + How to write tests for Git Development
 
-- 👯 I’m looking to collaborate on:
+- 👯 I’m looking to collaborate with:
   + Everyone 🤗
 
 - 🤔 I’m looking for help with:
