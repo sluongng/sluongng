@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**sluongng/sluongng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  + Infrastructure support for Mono-repositor(ies) hosting
+  + Improve CI scaling for multi-tenants repositor(ies)
+  + Improve Garbage Collection for Gitlab's Gitaly
+  + Catch bugs on Git Dev mailing list
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
+  + Rust / Perl
+  + SQL Databases Internal
+  + Design/Improve middleware infrastructure/tooling to improve DevExp
+  + How to write tests for Git Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:
+  + Everyone 🤗
+
+- 🤔 I’m looking for help with:
+  + Feedbacks / Ideas
+  + Research papers
+
+- 💬 Ask me about:
+  + How a graph data database could help scaling Dependabot
+  + Beginner's entry to Git codebase
+  + How was it like working in China tech giant while not speaking Chinese (and 996)
+  + My dotfiles and CLI collection
+
+- 📫 How to reach me:
+  + https://twitter.com/sluongng
+  + sluongng@gmail.com
+
+- 😄 Pronouns:
+  + He/Him
+
+- ⚡ Fun fact:
+  + I like making my ☕️ from a Moka Pot
+  + I use ANNE Pro 2 Keyboard as my daily driver
