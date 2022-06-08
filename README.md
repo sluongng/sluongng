@@ -1,18 +1,19 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  + Hosting/Scaling various devtools: Gitlab, Artifactory...
-  + Improve Storage, CI scaling for large multi-tenants Git repositor(ies)
-  + Migrate big enterprise onto Bazel Build
-  + Catch bugs on Git Dev mailing list
+  + Helping organizations adopt and scale Bazel
+  + Monitoring / Scaling CI/CD systems
+  + Hosting / Scaling various Development Productivity tools: Gitlab, Artifactory, ...
+  + Catching and Squashing bugs on OSS projects: Git, Gitlab, Bazel etc...
 
-- 🌱 I’m currently learning:
-  + Design/Improve middleware infrastructure/tooling to improve DevExp
-  + Bazel custom rules and release/deploy workflow
-  + Rust / Perl
-  + Various Database Internal
+- 🌱 My opensource activities:
+  + Improving Bazel's rules_go and Gazelle
+  + Maintaining [nogo-analyzer](https://github.com/sluongng/nogo-analyzer), a set of Go static analyzers to use with Bazel
+  + Building [ugazelle](https://github.com/sluongng/ugazelle), a universal Bazel's BUILD file generator for multi-language
+  + For more, checkout [my OSS backlog](https://github.com/users/sluongng/projects/1/views/1)
 
 - 💬 Ask me about:
+  + Bazel adoption journeys
   + Developer Experience and Engineering Culture
   + Beginner's entry to Git codebase
   + Gitlab's scaling for big enterprises
@@ -27,6 +28,6 @@
 - 😄 Pronouns:
   + He/Him
 
-- ⚡ Fun fact:
+- ⚡ Fun facts:
   + I use ANNE Pro 2 Keyboard as my daily driver
   + I have lived in 4 and worked in 5 different countries from 2016-2020
