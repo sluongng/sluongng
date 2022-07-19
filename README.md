@@ -5,6 +5,7 @@
   + Monitoring / Scaling CI/CD systems
   + Hosting / Scaling various Development Productivity tools: Gitlab, Artifactory, ...
   + Catching and Squashing bugs on OSS projects: Git, Gitlab, Bazel etc...
+  + Writing a blog about Bazel, DevExp and Monorepo over in https://sluongng.hashnode.dev/
 
 - 🌱 My opensource activities:
   + Improving Bazel's rules_go and Gazelle
