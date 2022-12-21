@@ -22,7 +22,8 @@
   + My dotfiles and CLI collection
 
 - 📫 How to reach me:
-  + Twitter: https://twitter.com/sluongng (preferred)
+  + Twitter: https://twitter.com/sluongng
+  + Mastodon: https://hachyderm.io/@sluongng (preferred)
   + Email: sluongng@gmail.com
   + Resume: http://sluongng.gitlab.io/resume/
 
