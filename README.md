@@ -23,7 +23,7 @@
 
 - 📫 How to reach me:
   + Twitter: https://twitter.com/sluongng
-  + Mastodon: https://hachyderm.io/@sluongng (preferred)
+  + Mastodon: <a rel="me" href="https://hachyderm.io/@sluongng">https://hachyderm.io/@sluongng</a> (preferred)
   + Email: sluongng@gmail.com
   + Resume: http://sluongng.gitlab.io/resume/
 
