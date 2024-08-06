@@ -11,7 +11,6 @@
   + Improving Bazel's rules_go and Gazelle
   + Maintaining [nogo-analyzer](https://github.com/sluongng/nogo-analyzer), a set of Go static analyzers to use with Bazel
   + Building [ugazelle](https://github.com/sluongng/ugazelle), a universal Bazel's BUILD file generator for multi-language
-  + For more, checkout [my OSS backlog](https://github.com/users/sluongng/projects/1/views/1)
 
 - 💬 Ask me about:
   + Bazel adoption journeys
