@@ -7,11 +7,6 @@
   + Catching and Squashing bugs on OSS projects: Git, Gitlab, Bazel etc...
   + Writing a blog about Bazel, DevExp and Monorepo over in https://sluongng.hashnode.dev/
 
-- 🌱 My opensource activities:
-  + Improving Bazel's rules_go and Gazelle
-  + Maintaining [nogo-analyzer](https://github.com/sluongng/nogo-analyzer), a set of Go static analyzers to use with Bazel
-  + Building [ugazelle](https://github.com/sluongng/ugazelle), a universal Bazel's BUILD file generator for multi-language
-
 - 💬 Ask me about:
   + Bazel adoption journeys
   + Developer Experience and Engineering Culture
